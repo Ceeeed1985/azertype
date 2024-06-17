@@ -1,4 +1,4 @@
-// lancerLeJeu();
+lancerLeJeu();
 
 
 // let inputEcriture = document.getElementById("inputEcriture")
